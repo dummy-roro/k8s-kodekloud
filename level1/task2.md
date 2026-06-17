@@ -8,6 +8,7 @@ Create Deployment nginx
 Requirements
 Deployment name: nginx
 Image: nginx:latest
+
 Command
 ```
 kubectl create deployment nginx --image=nginx:latest
