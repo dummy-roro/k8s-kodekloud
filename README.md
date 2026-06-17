@@ -1,6 +1,6 @@
 Useful Kubernetes Commands Cheat Sheet
 
-i use "k" instead of typing full "kubeclt"
+i use "k" instead of typing full "kubectl"
 
 Nodes
 ```
