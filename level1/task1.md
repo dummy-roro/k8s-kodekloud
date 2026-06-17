@@ -8,10 +8,15 @@ Name the container httpd-container.
 Note: The kubectl utility on the jump host is configured to work with the Kubernetes cluster. Values like pod names or namespaces may differ in your environment, but the core challenge remains the same.
 
 Create Pod pod-httpd
+
 Requirements
+
 Pod name: pod-httpd
+
 Image: httpd:latest
+
 Label: app=httpd_app
+
 Container name: httpd-container
 
 Manifest
