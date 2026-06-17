@@ -3,8 +3,11 @@ The Nautilus DevOps team is initiating Kubernetes adoption for application migra
 Requirements:
 
 Create a pod named pod-httpd using the httpd image with the latest tag (specify httpd:latest).
+
 Set the label app: httpd_app.
+
 Name the container httpd-container.
+
 Note: The kubectl utility on the jump host is configured to work with the Kubernetes cluster. Values like pod names or namespaces may differ in your environment, but the core challenge remains the same.
 
 Create Pod pod-httpd
