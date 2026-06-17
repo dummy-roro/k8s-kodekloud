@@ -5,8 +5,11 @@ Create a deployment named nginx to deploy the application nginx using the image 
 Note: The kubectl utility on the jump-host has been configured to work with the Kubernetes cluster.
 
 Create Deployment nginx
+
 Requirements
+
 Deployment name: nginx
+
 Image: nginx:latest
 
 Command
