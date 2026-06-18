@@ -16,6 +16,7 @@ k get all
 k describe pod webserver
 ```
 Don't forget to check the events
+Image pull is failing because of wrong tag
 
 Edit the pod and save changes (change the image, it should be nginx:latest)
 ```
